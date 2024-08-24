@@ -18,6 +18,7 @@ int main(){
             default:
                 printf("\nInvalid option");
                 getch();
+                //to check the working of this
         }
     }
     return 0;
